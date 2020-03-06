@@ -1,0 +1,2 @@
+git+git://github.com/colcarroll/minimc.git
+git+https://github.com/ColCarroll/imcmc

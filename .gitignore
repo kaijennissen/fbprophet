@@ -2,6 +2,8 @@
 .Rhistory
 .Rapp.history
 
+!requirements.txt
+!requirements_git.txt
 .DS_Store
 
 

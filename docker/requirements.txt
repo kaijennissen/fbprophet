@@ -1,0 +1,8 @@
+jupyterlab
+tfp-nightly
+graphviz
+seaborn
+numpy
+arviz
+pandas
+matplotlib
