@@ -13,6 +13,6 @@ run:
 	docker run --rm \
 		-it \
 		-p 8888:8888 \
-	    -v $(THIS_FILE_DIR):/home/jovyan/work/ \
+	    -v $(THIS_FILE_DIR)/../notebooks:/tf \
 	    --name $(CONTAINER) \
 	    $(IMAGE)
