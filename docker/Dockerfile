@@ -15,5 +15,4 @@ RUN pip install -r /tmp/requirements.txt
 RUN pip install -r /tmp/requirements_git.txt
 
 EXPOSE 8888
-#CMD ["/bin/sh", "startup.sh"]
 CMD ["jupyter","lab","--allow-root","--ip","0.0.0.0"]

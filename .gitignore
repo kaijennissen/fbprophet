@@ -6,7 +6,7 @@
 !requirements_git.txt
 .DS_Store
 
-
+/notebooks
 .RData
 
 # Example code in package build process
